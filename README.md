@@ -1,4 +1,21 @@
-# Hi 👋, I'm Nishanth
+# <h1 align="center">Hi 👋, I'm Nishanth</h1>
+
+<h3 align="center">Data Science Enthusiast | Python Developer | Tableau Developer</h3>
+
+<p align="center">
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/nishanth-senthil-89299b2a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="mailto:nishanthsenthil2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+---
+
 
 🎓 Aspiring Ai&Data Scientist from India
 
