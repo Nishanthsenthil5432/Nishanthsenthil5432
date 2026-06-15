@@ -36,6 +36,31 @@
 ---
 
 
+</div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/karnansp36/karnansp36/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/karnansp36/karnansp36/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://github.com/karnansp36/karnansp36/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+<br/>
+
+---
+
+
+
+
+
+
+
+
+
+
+
 🎓 Aspiring Ai&Data Scientist from India
 
 📊 Passionate about Data Analytics, Machine Learning, and AI
@@ -239,6 +264,50 @@
 
 
 
+Project Discussions
+
+[![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:nishanthsenthil2004@gmail.com)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Latest Code & Contributions
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-22d3ee?style=for-the-badge&logo=github&logoColor=0a0a0a&labelColor=22d3ee)](https://github.com/karnansp36)
+
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -255,7 +324,13 @@ I enjoy transforming raw data into meaningful insights and dashboards.
 > learning emerging technologies,
 > and creating scalable real-world solutions.
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e293b,50:0ea5e9,75:06b6d4,100:22d3ee&height=120&section=footer&text=Thanks%20for%20visiting!%20Let%27s%20build%20something%20exceptional%20🚀&fontSize=16&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 <br>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=karnansp36&style=for-the-badge&color=22d3ee&labelColor=0a0a0a&label=Total+Profile+Views" />
+
+<br/><br/>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/
