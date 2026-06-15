@@ -2,11 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7B68EE&height=200&section=header&text=Nishanth+S&fontSize=50&fontColor=ff"/>
 </p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/152867112?v=4" width="220" style="border-radius:50%;">
-</p>
-
-
 
 
 
