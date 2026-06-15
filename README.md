@@ -110,7 +110,7 @@
 </head>
 <body>
   <nav>
-    <div class="brand">HARIHARAN J</div>
+    <div class="brand">NISHANTH S</div>
     <div class="nav-links">
       <a href="#about">About</a>
       <a href="#education">Education</a>
@@ -125,8 +125,8 @@
     <div class="hero-grid">
       <div>
         <div class="eyebrow">Aspiring Data Scientist</div>
-        <h1>HARIHARAN J<br><span>Data Scientist</span></h1>
-        <p class="subtitle">B.Sc. Mathematics graduate with strong analytical, programming, and problem-solving skills, focused on data analysis, machine learning, and business insights.</p>
+        <h1>NISHANTH S<br><span>Data Scientist</span></h1>
+        <p class="subtitle">B.technology (AI&DS) graduate with strong analytical, programming, and problem-solving skills, focused on data analysis, machine learning, and business insights.</p>
         <div class="buttons">
           <a class="btn primary" href="#projects">View Projects</a>
           <a class="btn secondary" href="#contact">Contact Me</a>
@@ -134,9 +134,9 @@
       </div>
       <div class="hero-card">
         <ul class="contact-list">
-          <li><strong>Phone:</strong> 9791938503</li>
-          <li><strong>Email:</strong> hariharanjaishanker2005@gmail.com</li>
-          <li><strong>Location:</strong> kadayampatti(TK), salem(DT) 636351</li>
+          <li><strong>Phone:</strong> 9092028536</li>
+          <li><strong>Email:</strong> Nisahnthsenthil2004@gmail.com</li>
+          <li><strong>Location:</strong>...</li>
         </ul>
       </div>
     </div>
@@ -153,7 +153,7 @@
     <div class="grid-2">
       <div class="card">
         <h3>Bachelors of Technology</h3>
-        <p>Sona College of Arts and Science, Salem</p>
+        <p>Ganesh College of Enginering, Salem</p>
         <div class="meta"><span>2022 - 2026</span><span>CGPA: 6.6/10</span></div>
       </div>
       <div class="card">
