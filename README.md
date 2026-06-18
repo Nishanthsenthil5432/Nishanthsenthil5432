@@ -9,7 +9,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Nishanth;Data+Science+Enthusiast;Python+Developer;Machine+Learning+Learner">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Nishanthsenthil;Data+Science+Enthusiast;Python+Developer;Machine+Learning+Learner">
 </h1>
 
 
